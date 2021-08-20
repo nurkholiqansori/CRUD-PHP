@@ -10,3 +10,8 @@ Cara menggunakan:
   <i> Searching Jika membutuhkan tutor membuat table di MySQL</i></li>
   <li> Selesai. </li>
 </ol>
+
+Sesuaikan juga dengan databasenya dengan:
+Nama Databasenya <strong>user</strong>, Table harus berisi <strong>id</strong>, <strong>nama</strong>, dan <strong>alamat</strong>
+
+Bisa ditambah juga sesuai keinginan, tapi harus ditambah juga di beberapa kode nya.
